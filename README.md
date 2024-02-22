@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin: AbiodunIdowu](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/abiodun-idowu/)
+[![Linkedin: Muskulee](https://img.shields.io/badge/-Muskulee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/abiodun-idowu/)
 [![GitHub followers](https://img.shields.io/github/followers/muskulee?label=Follow&style=social)](https://github.com/muskulee)
 
 
